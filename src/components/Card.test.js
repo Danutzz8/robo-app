@@ -13,6 +13,6 @@ it('expect to render Card component', () => {
     expect(shallow(<Card/>)).toMatchSnapshot()
 });
 
-// it("renders correctly", () => {
-//     expect(shallow(<Card/>)).toMatchSnapshot(); // check if a component renders correctly
-//   });
+it("renders correctly", () => {
+    expect(shallow(<Card/>)).toMatchSnapshot(); // check if a component renders correctly
+  });
