@@ -1,5 +1,5 @@
 # robofriends
-React + Redux
+React + Redux small react APP
 
 To run the project:
 
